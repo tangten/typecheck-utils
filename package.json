@@ -9,7 +9,7 @@
   "author": "Ten",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangten/typecheck-utils.git"
+    "url": "git+https://github.com/tangten/typecheck-utils.git"
   },
   "keywords": [
     "typecheck",
